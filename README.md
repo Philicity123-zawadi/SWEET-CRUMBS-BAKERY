@@ -24,3 +24,6 @@ This is a simple static HTML website for Sweet Crumbs Bakery. It showcases the b
 - Table-based layout (classic approach)
 
 ## Folder Structure
+sweet-crumbs-bakery/
+├── index.html
+├── README.md
